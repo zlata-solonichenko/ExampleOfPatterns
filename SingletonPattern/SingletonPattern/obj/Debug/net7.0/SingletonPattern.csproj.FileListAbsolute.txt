@@ -1,0 +1,14 @@
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern.deps.json
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern.runtimeconfig.json
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern.dll
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/bin/Debug/net7.0/SingletonPattern.pdb
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.AssemblyInfo.cs
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.dll
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/refint/SingletonPattern.dll
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.pdb
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/SingletonPattern.genruntimeconfig.cache
+/Users/itachi/RiderProjects/SingletonPattern/SingletonPattern/obj/Debug/net7.0/ref/SingletonPattern.dll
