@@ -1,0 +1,14 @@
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.deps.json
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.runtimeconfig.json
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.dll
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.pdb
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.AssemblyInfoInputs.cache
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.AssemblyInfo.cs
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.csproj.CoreCompileInputs.cache
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.dll
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/refint/DecoratorPattern.dll
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.pdb
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.genruntimeconfig.cache
+/Users/itachi/RiderProjects/DecoratorPattern/DecoratorPattern/obj/Debug/net7.0/ref/DecoratorPattern.dll
